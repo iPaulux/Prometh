@@ -1,0 +1,14 @@
+{
+  "name": "fuse",
+  "version": "1.0.0",
+  "description": "Scene 3D of a rocket made with Spline, credit to Paul Guttin avaible on https://prometh.ipauluxyt.repl.co/",
+  "scripts": {
+    "start": "serve"
+  },
+  "devDependencies": {
+    "serve": "^13.0.2"
+  },
+  "dependencies": {
+    "gsap": "^3.12.3"
+  }
+}
